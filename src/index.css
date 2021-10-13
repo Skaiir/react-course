@@ -35,7 +35,7 @@ body {
   width: 100%;
   border-radius: 10px;
   box-shadow: 6px 6px rgb(240, 201, 129);
-  opacity: 70%;
+  opacity: 0.7;
 }
 
 .album > h1 {
@@ -53,10 +53,10 @@ body {
 
 @keyframes fade {
   0% {
-    opacity: 70%;
+    opacity: 0.7;
   }
   100% {
-    opacity: 100%;
+    opacity: 1;
   }
 }
 
